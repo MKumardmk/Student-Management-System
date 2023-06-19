@@ -5,5 +5,5 @@ media/
 app/migrations/*
 !app/migrations/0001_initial.py
 venv
-db.sqlite3
+
 
